@@ -23,6 +23,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaib-malik01" alt="suhaib-malik01" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaib-malik01&show_icons=true&locale=en&layout=compact" alt="suhaib-malik01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhaib-malik01&show_icons=true&locale=en" alt="suhaib-malik01" /></p>
+<p>&nbsp;<img align="center"  width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=suhaib-malik01&show_icons=true&locale=en" alt="suhaib-malik01" /></p>
 
 <p><img align="center" background-color= "black" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaib-malik01&" alt="suhaib-malik01" /></p>
