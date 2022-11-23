@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://suhaib-malik01.github.io/](https://suhaib-malik01.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,DSA**
+- 💬 Ask me about **Java,DSA,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **suhaib.malik9691@gmail.com**
 
