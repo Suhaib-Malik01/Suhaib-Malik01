@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=22B9F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhaib+Malik;A+passionate+Java+Backend+Developer" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="420" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" alt="Coding" width="422" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 - 🌱 I’m currently learning **Java Backend at Masai School**
 
