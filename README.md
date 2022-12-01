@@ -18,6 +18,10 @@
  <a href="https://github.com/suhaib-malik01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+ </a>
+ <a href="https://leetcode.com/Suhaib-Malik/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
+</a>
 </p>
 
 
