@@ -19,10 +19,6 @@
  <a href="https://leetcode.com/Suhaib-Malik/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.hackerrank.com/suhaib_malik9691" target="_blank">
-<img src=https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866 alt=LeetCode style="margin-bottom: 5px;" />
-</a>
-
 </p>
 
 
