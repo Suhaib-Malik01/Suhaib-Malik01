@@ -6,13 +6,7 @@
 
 - 💬 Ask me about **Java,DSA,HTML,CSS,JavaScript**
 
-- 📫 How to reach me **suhaib.malik9691@gmail.com**
-
 <h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/suhaib-malik01" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
  
  <a href="https://leetcode.com/Suhaib-Malik/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
